@@ -2,11 +2,13 @@
 
 This Project focus on computer vision and artificial intelligence for face searching.
 
-- OpenCV
+- opencv 3.4.2
 - MTCNN
 - FaceNet
-- Python3
-- TensorFlow 
+- python 3.6.9
+- tensorflow-gpu 1.2.1
+- scipy 1.3.1
+- imageio 2.6.1
 
 The project has below components
 
